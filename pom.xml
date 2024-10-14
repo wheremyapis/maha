@@ -32,7 +32,7 @@
         <scalaz.version>7.2.30</scalaz.version>
         <jackson.version>2.11.3</jackson.version>
         <httpclient.version>4.5.12</httpclient.version>
-        <guava.version>29.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <jodatime.version>2.10.6</jodatime.version>
         <druid.version>0.21.1</druid.version>
         <scala.arm.version>2.0</scala.arm.version>
